@@ -1,4 +1,4 @@
-module github.com/Yrp/gotron-sdk
+module github.com/Yrp/gotron-sdk/v2
 
 go 1.14
 
